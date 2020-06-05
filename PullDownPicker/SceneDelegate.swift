@@ -2,12 +2,13 @@
 //  SceneDelegate.swift
 //  PullDownPicker
 //
-//  Created by 多川幸裕 on 2020/06/03.
-//  Copyright © 2020 多川幸裕. All rights reserved.
+//  Created by iOS開発 on 2020/06/03.
+//  Copyright © 2020 iOS開発. All rights reserved.
 //
 
 import UIKit
 
+@available(iOS 13.0, *)
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
